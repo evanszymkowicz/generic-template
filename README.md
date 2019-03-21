@@ -1,0 +1,2 @@
+# generic-template
+Getting bootstrappy
